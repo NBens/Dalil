@@ -4,5 +4,5 @@
 * New Template
 * Special page for each website
 ### Needs Backend:
-* Comments
-* Rate
+* Comments (90% Done)
+* Rate 
