@@ -3,4 +3,5 @@
 # Todo:
 * Mass data input
 * Search & Sort
+* Font
 * better domain
